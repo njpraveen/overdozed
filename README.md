@@ -1,4 +1,4 @@
-# Divya Threads
+# Overdozed
 
 A demo T-shirt storefront that mixes traditional Hindu temple art with neon, futuristic effects.
 
